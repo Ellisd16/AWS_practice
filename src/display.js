@@ -12,20 +12,6 @@ Auth.configure(awsconfig)
 console.log(awsconfig);
 
 
-// Amplify.configure({
-//     Auth: {
-//         identityPoolId: 'us-west-2:13ee46be-92c6-4bda-970b-5106a0ae9283',
-//         region: "us-west-2"
-//     }
-// }
-// );
-
-// Storage.configure({
-//     AWSS3: {
-//         bucket: 'amplify-ampexample-dev-153054-deployment',//Your bucket ARN;
-//         region: 'us-west-2'//Specify the region your bucket was created in;
-//     }
-// })
 
 class Display extends Component {
 
