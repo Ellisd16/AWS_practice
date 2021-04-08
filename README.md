@@ -22,6 +22,6 @@ This was a practice application I developed to help familiarize myself with the 
 
 Learning how to navigate through the various services was a bit challenging, but with the right turtorials and some help, I was able to get the page running!
 
-## Link
+## Further Plans
 
-https://ellisd16.github.io/AWS_practice/
+I plan on creating a server so that I can run this page outside of local host and maybe styling it up a little more can help!
