@@ -2,7 +2,10 @@
   "name": "amp_example",
   "description": "AWS Amplify Example App",
   "main": "server.js",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  },
   "private": true,
   "dependencies": {
     "express": "^4.16.3",
