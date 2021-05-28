@@ -17,6 +17,12 @@ This was a practice application I developed to help familiarize myself with the 
   * AWS Amplify
   * Cognito
   * Key Managment Service
+  
+## Installation
+
+Download the code for this repo through Github!
+
+cd into the file location and enter "npm start" into the terminal!
 
 ## Challenges
 
